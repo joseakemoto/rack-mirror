@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
