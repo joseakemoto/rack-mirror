@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix PIL show() and save() (#8202)
