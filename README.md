@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
