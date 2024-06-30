@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
