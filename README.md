@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
